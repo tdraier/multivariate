@@ -1,0 +1,13 @@
+.bodywrapper .multivariate {
+	position: relative;
+	border:1px solid #ccc;
+	margin-bottom:10px;
+	clear:both;
+}
+
+.bodywrapper .multivariate-header {
+	background-color: #ccc;
+    padding-left:6px;
+    text-align:left;
+	margin:0;
+}
